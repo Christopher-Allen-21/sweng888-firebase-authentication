@@ -1,4 +1,4 @@
-# PSU SWENG-888 Using SQLite
+# PSU SWENG-888 Implementing Firebase Authentication
 
 ## Description
 In this assignment, create a mobile application that uses Firebase authentication and database. Moreover, you will be able to incorporate advanced UI elements such as Fragments and Navigation Drawer. This time you will be able to choose whatever format you would like to use for the application, and you may be able to create any entities to store information on Firebase. On the other hand, below you may find the general requirements for the application.
